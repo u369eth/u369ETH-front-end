@@ -21,7 +21,7 @@ export default function AdioleDash({ title, SubTitle, Desc }) {
     <>
       <Button
         variant="primary"
-        className="font_size bg-transparent text-clr p-0"
+        className="font_size bg-transparent text-clr"
         onClick={handleShow}>
         <HiOutlineInformationCircle className="fs-5" />
       </Button>
@@ -38,14 +38,14 @@ export default function AdioleDash({ title, SubTitle, Desc }) {
               <CloseButton variant="white" onClick={handleClose} />
             </Modal.Header>
             <Modal.Body className="">
-              <p className="footer_font text-center">{title}</p>
-              <p className="footer_font text-center">{SubTitle}</p>
+              <p className="footer_font text-left">{title}</p>
+              <p className="footer_font text-left">{SubTitle}</p>
               {/* <p className="footer_font text-center">&</p> */}
               <p
-                className="footer_font text-center"
-                style={{ paddingBottom: "1rem" }}>
-                {Desc}
-              </p>
+                className="footer_font text-left"
+                style={{ paddingBottom: "1rem" }}
+                dangerouslySetInnerHTML={{ __html: Desc }}
+              />
             </Modal.Body>
           </div>
         </motion.div>

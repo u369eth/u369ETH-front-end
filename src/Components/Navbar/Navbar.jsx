@@ -113,13 +113,13 @@ function NavbarMenu() {
             </NavLink>
             <NavLink
               className="ms-lg-2 ms-0 p-lg-2 p-0 text-decoration-none text-dark navlinks"
-              to="tokens"
+              to="security"
               onClick={closeNavbar}>
               Security
             </NavLink>
             <NavLink
               className="ms-lg-2 ms-0 p-lg-2 p-0 text-decoration-none text-dark navlinks"
-              to="faq"
+              to="insight"
               onClick={closeNavbar}>
               Insight
             </NavLink>

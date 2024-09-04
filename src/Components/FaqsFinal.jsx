@@ -19,8 +19,8 @@ const FaqsFinal = () => {
                   <Accordion.Body>
                     {" "}
                     <p>
-                      Connect your crypto wallet to u369.eth via Web or Mobile
-                      browsers.
+                      Connect your crypto wallet to u369.eth.limo via Web or
+                      Mobile browsers.
                       <p></p>
                       <strong>Via Web browser:</strong>
                       <p></p>
@@ -50,7 +50,7 @@ const FaqsFinal = () => {
                           want to use (or already have on your phone) {">>"}{" "}
                           scan the QR code {">>"} click "Connect" on your
                           phone's wallet. Now you should be connected to
-                          u369.eth.
+                          u369.eth.limo
                         </li>
                       </ul>
                     </p>
@@ -146,7 +146,8 @@ const FaqsFinal = () => {
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
-                      Once your wallet is connected to the u369.eth interface:
+                      Once your wallet is connected to the u369.eth.limo
+                      interface:
                     </p>
                     <p>(A) Go to Dashboard.</p>
 

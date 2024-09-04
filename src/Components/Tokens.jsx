@@ -59,6 +59,30 @@ function Tokens() {
             <li>$1,107,000 to help sustain u369.eth (the social good)</li>
           </ul>
 
+          <h4
+            style={{ textAlign: "center", paddingTop: "50px" }}
+            className="pb-4">
+            Security and Privacy
+          </h4>
+
+          <p>
+            Using .LIMO, as the bridge to dynamically host u369.eth, is a living
+            attestation about the fortitude and benefits of net neutrallity and
+            public goods:
+          </p>
+          <p>
+            "The LIMO project enforces strong origin isolation policies for all
+            resources by default. Projects accessed through ETH.LIMO
+            automatically receive security hardened browser headers, and all
+            client data is encrypted with TLSv1.3 (default) or TLSv1.2 using the
+            latest ciphersuites All log data is fully anonymized, which prevents
+            the ability to uniquely identify any single user."
+          </p>
+          <p>
+            Source:
+            https://gitbook.io/documentation/introduction/what-is-eth.limo/SecurityAndPrivacy
+          </p>
+
           {/* <hr
             style={{
               color: "#0d6efd",

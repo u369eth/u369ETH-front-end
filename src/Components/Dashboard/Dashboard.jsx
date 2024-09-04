@@ -128,11 +128,10 @@ const Dashboard = () => {
                   <h5 style={{ color: "#7e7f8a" }}>
                     {" "}
                     <AdioleDash
-                      title="Stealable token"
+                      title="Native tokens visible in your wallet and in u369.eth interface."
                       SubTitle="Protected: No"
-                      Desc="If (A) private keys were compromised or (B) a malicious approval were signed, the token(s) can be stolen.
-"
-                    />{" "}
+                      Desc="(A) If private keys were compromised or <br/> (B) Malicious approval/transaction is signed, the token(s) can be stolen."
+                    />
                     Tokens to protect
                   </h5>
                   <p
@@ -195,9 +194,9 @@ const Dashboard = () => {
                   <div>
                     <h5 style={{ color: "#7e7f8a" }}>
                       <AdioleDash
-                        title="uTokens (unstealable Tokens)"
+                        title="uTokens (unhackableTokens) visible in u369.eth interface and in your wallet."
                         SubTitle="Protected: Yes"
-                        Desc="Even if (A) private keys were compromised or (B) a malicious approval were signed, the uTokens cannot be stolen."
+                        Desc="(A) If private keys were compromised or <br/> (B) Malicious approval/tx is signed, the uTokens cannot be stolen."
                       />{" "}
                       uTokens
                     </h5>
@@ -275,9 +274,9 @@ const Dashboard = () => {
                           gap: "5px",
                         }}>
                         <AdioleDash
-                          title="Stealable token"
+                          title="Native tokens visible in your wallet and in u369.eth interface."
                           SubTitle="Protected: No"
-                          Desc="If (A) private keys were compromised or (B) a malicious approval were signed, the token(s) can be stolen."
+                          Desc="(A) If private keys were compromised or <br/> (B) Malicious approval/transaction is signed, the token(s) can be stolen."
                         />
                         <h5 style={{ color: "#7e7f8a" }}>Tokens to protect</h5>
                       </div>
@@ -347,9 +346,9 @@ const Dashboard = () => {
                           gap: "5px",
                         }}>
                         <AdioleDash
-                          title="uTokens (unstealable Tokens)"
+                          title="uTokens (unhackableTokens) visible in u369.eth interface and in your wallet."
                           SubTitle="Protected: Yes"
-                          Desc="Even if (A) private keys were compromised or (B) a malicious approval were signed, the uTokens cannot be stolen."
+                          Desc="(A) If private keys were compromised or <br/> (B) Malicious approval/tx is signed, the uTokens cannot be stolen."
                         />
                         <h5 style={{ color: "#7e7f8a" }}>uTokens</h5>
                         {/* <h5 style={{ color: "#7e7f8a" }}>(unhackableTokens)</h5> */}

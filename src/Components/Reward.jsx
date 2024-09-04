@@ -885,7 +885,7 @@ const Tokens = () => {
                       to{" "}
                       <a
                         style={{ color: "#0d6efd" }}
-                        href="https://u369fractaleth.on.fleek.co/"
+                        href="https://u369fractal.eth.limo"
                         target="_blank"
                         rel="noreferrer">
                         u369fractal.eth

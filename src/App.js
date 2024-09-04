@@ -27,7 +27,7 @@ function App() {
         window.location.reload(true);
       }
   }, [chain?.id, address]);
-     
+
   const router = createBrowserRouter([
     {
       path: "/",
@@ -42,7 +42,7 @@ function App() {
           element: <Reward />,
         },
         {
-          path: "tokens",
+          path: "security",
           element: <Tokens />,
         },
 
@@ -51,7 +51,7 @@ function App() {
           element: <Protocol />,
         },
         {
-          path: "faq",
+          path: "insight",
           element: <FaqsFinal />,
         },
         {

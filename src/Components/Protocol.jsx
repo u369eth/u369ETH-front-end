@@ -16,8 +16,8 @@ const Protocol = () => {
                   <Accordion.Body>
                     <p>
                       With gratitude, influenced by the teachings and the
-                      service-attitude of our ancestors, u369.eth has been
-                      created to protect your crypto assets without having
+                      service-attitude of our ancestors, this initiative has
+                      been created to protect your crypto assets without having
                       custody of them.
                     </p>
                     <p>
@@ -28,13 +28,15 @@ const Protocol = () => {
                     </p>
 
                     <p>
-                      With u369.eth/v1 deployment on the Ethereum chain {">>"}{" "}
-                      uTokens (unhackableTokens) have come to life for you to
-                      hodl securely and permanently.
+                      With u369.eth.limo/v1 deployment on the Ethereum chain{" "}
+                      {">>"} uTokens (unhackableTokens) have come to life... For
+                      you to hodl securely and permanently upon a
+                      programmed-protection, for your own and everyone else's
+                      benefaction.
                     </p>
                     <p>
-                      With u369.eth/v2 uTokens shall be used across DeFi and
-                      other networks.
+                      With u369.eth.limo/v2 uTokens shall be used across DeFi
+                      and other networks.
                     </p>
                   </Accordion.Body>
                 </Accordion.Item>
@@ -57,20 +59,21 @@ const Protocol = () => {
                     </p>
                     <p>
                       <strong>
-                        The main functionality of u369 is to safeguard your
-                        cryptographic tokens from wallet drainers and from any
-                        other malicious software that can put your crypto tokens
-                        in the danger of being stolen.
+                        The main function/service provided by u369.eth.limo is
+                        to protect your cryptographic tokens from wallet
+                        drainers and from any other malicious software that can
+                        steal your crypto tokens.
                       </strong>
                     </p>
                     <p>
                       Even if a bad actor would have gained access to your
                       private keys or if you would be tricked into signing a
-                      malicious approval due to a phishing attack, your funds
-                      are still protected from theft with the u369.eth protocol.
+                      malicious approval/transaction due to a phishing attack,
+                      your funds are still protected from theft with the
+                      u369.eth protocol.
                     </p>
                     <p>
-                      The u369.eth construction executes this
+                      The u369.eth.limo construction executes this
                       anti-theft-performance by encapsulating (removing away
                       from circulation) your native token(s) into a u369 smart
                       contract.
@@ -111,8 +114,12 @@ const Protocol = () => {
                   </Accordion.Header>
                   <Accordion.Body>
                     <p>
-                      u369.eth collects a 0.369% benefaction-fee for the service
-                      provided.
+                      Main service provided by u369.eth.limo: Protect your
+                      tokens and simultaneously create benefaction for all.
+                    </p>
+                    <p>
+                      The protocol collects a 0.369% benefaction-fee for the
+                      service provided.
                     </p>
                     <p>
                       Every time funds are protected using the smart contract,
@@ -125,7 +132,7 @@ const Protocol = () => {
                     </p>
                     <p>
                       (1) 30% for the Gift Pool, to reward one randomly selected
-                      u369-end-user.
+                      u369.eth.limo end-user (every 369 hours).
                     </p>
                     <p>
                       (2) 30% for the Impact Pool, to contribute to Public Goods
@@ -172,7 +179,7 @@ const Protocol = () => {
                       Inspired by bio-symmetrical systems (think sacred
                       geometry), this construction perpetuates the fair
                       equilibrium of distributing (and re-distributing) funds
-                      collected from the u369.eth benefaction-fee.
+                      collected from the u369.eth.limo benefaction-fee.
                     </p>
                     <p>The social good in a pattern that repeats forever.</p>
                   </Accordion.Body>
@@ -193,9 +200,9 @@ const Protocol = () => {
                   <Accordion.Body>
                     <p>
                       A sovereign and egalitarian solution to easily activate
-                      your Crypto Inheritance Planning via a simple u369.eth
-                      smart contract. Under construction and around the corner{" "}
-                      {">>"} u369legacy.eth
+                      your Crypto Inheritance Planning via a simple u369 smart
+                      contract. Under construction and around the corner {">>"}{" "}
+                      u369legacy.eth.limo
                     </p>
                   </Accordion.Body>
                 </Accordion.Item>

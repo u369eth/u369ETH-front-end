@@ -8,14 +8,14 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 const queryClient = new QueryClient();
 
 // 1. Get projectId from https://cloud.walletconnect.com
-const projectId = "fc5801c5d5dc16c67c86f7dd13582156";
+const projectId = "a0f2d9df9b76661286b5c7739115181a";
 
 // 2. Create wagmiConfig
 const metadata = {
   name: "u369",
   description: "u369 Security Token",
-  url: "https://u369crypto.on.fleek.co/home", // origin must match your domain & subdomain
-  icons: ["https://avatars.githubusercontent.com/u/37784886"],
+  url: "https://u369.eth.limo", // origin must match your domain & subdomain
+  icons: [""],
 };
 
 const chains = [mainnet, sepolia];
